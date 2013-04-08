@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Tough defender</string>
+    
+    <string name="start">start</string>
+    <string name="option">option</string>
+    <string name="about_author">about author</string>
+    <string name="English">English</string>
+    <string name="exit">exit</string>
+    
+    <string name="start1">游戏开始</string>
+    <string name="option1">选项</string>
+    <string name="about_author1">关于作者</string>
+    <string name="langguage1">简体中文</string>
+    <string name="exit1">退出游戏</string>
+    
+    <string name="level">level</string>
+    <string name="audio_on">audio_on</string>
+    <string name="audio_off">audio_off</string>
+    <string name="go_back">go_back</string>
+    
+    <string name="level1">难度</string>
+    <string name="audio_on1">声音开</string>
+    <string name="audio_off1">声音关</string>
+    <string name="go_back1">返回</string>
+    
+    <string name="over">game over!</string>
+    <string name="over1">游戏结束</string>
+    
+      <string name="defender">ToughDenfender has saved your life</string>
+      <string name="defender1">炽热防御者刚刚救了你一命</string>
+</resources>
